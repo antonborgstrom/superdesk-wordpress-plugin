@@ -1,6 +1,6 @@
 {
     "name": "antonborgstrom/superdesk-wordpress-plugin",
-    "type": "plugin",
+    "type": "wordpress-plugin",
     "description": "Imports articles in the IPTC ninjs format from the Superdesk newsroom system",
     "keywords": [
       "superdesk",
