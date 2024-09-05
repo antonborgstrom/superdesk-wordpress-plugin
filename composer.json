@@ -1,0 +1,21 @@
+{
+    "name": "antonborgstrom/superdesk-wordpress-plugin",
+    "type": "plugin",
+    "description": "Imports articles in the IPTC ninjs format from the Superdesk newsroom system",
+    "keywords": [
+      "superdesk",
+      "publisher"
+    ],
+    "homepage": "https://github.com/superdesk/superdesk-wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Sourcefabric and AdminIT",
+        "email": "info@sourcefabric.org",
+        "homepage": "https://github.com/superdesk"
+      }
+    ],
+    "require": {
+      "php": ">=5.3.3"
+    }
+  }
